@@ -13,3 +13,8 @@ After reading the chapter, I feel frustration towards the situaton and the indus
 
 ## Tree
 ![Tree](images/lab1_tree.png)
+
+# Regex
+
+## regexone
+![one](images/lab1regex/ex1.png)
