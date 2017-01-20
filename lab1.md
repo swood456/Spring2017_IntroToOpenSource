@@ -17,4 +17,12 @@ After reading the chapter, I feel frustration towards the situaton and the indus
 # Regex
 
 ## regexone
-![one](images/lab1regex/ex1.png)
+![1](images/lab1regex/ex1.png)
+![1.5](images/lab1regex/ex1.5.png)
+![2](images/lab1regex/ex2.png)
+![3](images/lab1regex/ex3.png)
+![4](images/lab1regex/ex4.png)
+![5](images/lab1regex/ex5.png)
+![6](images/lab1regex/ex6.png)
+![7](images/lab1regex/ex7.png)
+
