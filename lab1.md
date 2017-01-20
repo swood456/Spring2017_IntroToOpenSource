@@ -26,3 +26,18 @@ After reading the chapter, I feel frustration towards the situaton and the indus
 ![6](images/lab1regex/ex6.png)
 ![7](images/lab1regex/ex7.png)
 
+## regex crossword
+![1](images/lab1pt2/ex1.png)
+![2](images/lab1pt2/ex2.png)
+![3](images/lab1pt2/ex3.png)
+![4](images/lab1pt2/ex4.png)
+![5](images/lab1pt2/ex5.png)
+![6](images/lab1pt2/ex6.png)
+![7](images/lab1pt2/ex7.png)
+![8](images/lab1pt2/ex8.png)
+![9](images/lab1pt2/ex9.png)
+
+![1](images/lab1pt2/p1.png)
+![2](images/lab1pt2/p2.png)
+![3](images/lab1pt2/p3.png)
+![4](images/lab1pt2/p4.png)
