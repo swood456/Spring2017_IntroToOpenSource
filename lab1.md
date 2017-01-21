@@ -41,3 +41,8 @@ After reading the chapter, I feel frustration towards the situaton and the indus
 ![2](images/lab1pt2/p2.png)
 ![3](images/lab1pt2/p3.png)
 ![4](images/lab1pt2/p4.png)
+
+## Blockly
+![maze](images/lab1maze.png)
+
+## Reflection
