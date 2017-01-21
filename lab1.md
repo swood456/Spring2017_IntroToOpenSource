@@ -46,3 +46,4 @@ After reading the chapter, I feel frustration towards the situaton and the indus
 ![maze](images/lab1maze.png)
 
 ## Reflection
+As a CS/GSAS dual major, I have experience working with many different game engines, and am currently taking classes related to graphics and game engine development. I have worked with some open source game engines, and would be interested in looking into making improvements on them. One in particular I am thinking about working on is called Phaser. It is an HTML5 game engine where the user writes all their code in Javascript. In particular, I enjoy how easy it is to get a project going very quickly and how well the engine works across any and all platforms.
