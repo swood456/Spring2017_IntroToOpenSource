@@ -14,5 +14,4 @@ Android uses a mix of Apache and GPL licenses. The Apache license allows for pro
 Website | License Present | License
 ---------|:----------|:-------
 https://github.com/yacs-rcos/yacs | Yes | MIT license
----------|:----------|:-------
 yeah same | xd | test
