@@ -14,4 +14,7 @@ Android uses a mix of Apache and GPL licenses. The Apache license allows for pro
 Website | License Present | License
 ---------|:----------|:-------
 https://github.com/yacs-rcos/yacs | Yes | MIT license
-yeah same | xd | test
+https://rcos.io/projects/submitty/submitty/profile | Yes | BSD 3-Clause License
+https://rcos.io/projects/harrij15/SquareMeals/profile | Yes | BSD 3-Clause LICENSE
+https://github.com/slegec/lms_grabber | Yes | MIT License
+https://github.com/mattgilman10/butter-desktop | Yes | GNU General Public License
