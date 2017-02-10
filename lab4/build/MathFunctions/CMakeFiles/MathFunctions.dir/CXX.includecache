@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stephen/introOpenSource/labs/Spring2017_IntroToOpenSource/lab4/ex1/MathFunctions/MathFunctions.h
+
+/home/stephen/introOpenSource/labs/Spring2017_IntroToOpenSource/lab4/ex1/MathFunctions/mysqrt.cxx
+MathFunctions.h
+/home/stephen/introOpenSource/labs/Spring2017_IntroToOpenSource/lab4/ex1/MathFunctions/MathFunctions.h
+TutorialConfig.h
+/home/stephen/introOpenSource/labs/Spring2017_IntroToOpenSource/lab4/ex1/MathFunctions/TutorialConfig.h
+stdio.h
+-
+math.h
+-
+
+TutorialConfig.h
+
