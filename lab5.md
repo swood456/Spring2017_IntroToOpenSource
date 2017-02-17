@@ -46,4 +46,4 @@ video: https://youtu.be/ZyMKhlX_YM0
 
 
 # Part 2
-![passed tests](images/lab5_part1_tests.png)
+![passed tests](images/lab5_par2_tests.png)
